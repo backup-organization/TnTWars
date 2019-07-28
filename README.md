@@ -1,0 +1,2 @@
+# TnTWars
+Minigame for PocketMine
